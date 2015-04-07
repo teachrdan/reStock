@@ -1,0 +1,24 @@
+{
+  "name": "reStock",
+  "version": "1.0.0",
+  "description": "Track the social media activity of top moving stocks",
+  "main": "index.js",
+  "dependencies": {
+    "yo": "^1.4.6",
+    "yqlient": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teachrdan/reStock.git"
+  },
+  "author": "Dan Tennery-Spalding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teachrdan/reStock/issues"
+  },
+  "homepage": "https://github.com/teachrdan/reStock"
+}
